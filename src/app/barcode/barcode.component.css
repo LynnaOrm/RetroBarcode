@@ -1,0 +1,11 @@
+.block{
+    width:80px;
+    height:80px;
+    display:inline-block;
+    margin-right: 5px;
+
+}
+.top{
+    display: inline-block;
+}
+
